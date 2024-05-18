@@ -1,0 +1,19 @@
+{
+  "name": "desafioevaluado-blackandwhite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Tomas Roa",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jimp": "^0.22.12",
+    "uuid": "^9.0.1"
+  }
+}
